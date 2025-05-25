@@ -17,8 +17,7 @@ This project predicts future stock prices using Long Short-Term Memory (LSTM), a
 
 ## 📊 Results
 
-- The model predicts future stock prices with a visible **downward trend**, which may indicate a possible decline in stock value.
-- Future predictions are displayed in the original price scale for better interpretation.
+- The model predicts future stock prices with a visible **upward trend**.
 
 ---
 
